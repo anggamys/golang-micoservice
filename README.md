@@ -8,7 +8,7 @@ Proyek ini dikembangkan sebagai sarana pembelajaran untuk memahami konsep dasar 
 ## Services
 Berikut layanan yang tersedia dalam microservice ini:
 
-- **User Service** — Dokumentasi lengkap dapat dilihat [di sini](https://github.com/anggamys/golang-microservice/user-service/README.md)
+- **User Service** — Dokumentasi lengkap dapat dilihat [di sini](user-service/README.md)
 - Layanan lainnya masih dalam tahap pengembangan.
 
 ## Installation
